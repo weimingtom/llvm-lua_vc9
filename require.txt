@@ -1,0 +1,15 @@
+llvm-lua 1.2.0
+http://code.google.com/p/llvm-lua/downloads/list
+
+CMake 2.8
+http://www.cmake.org/cmake/resources/software.html
+
+LLVM 2.7
+* LLVM source code
+* LLVM Binaries for Mingw32/x86
+* LLVM-GCC 4.2 Front End Binaries for Mingw32/x86 
+http://llvm.org/releases/download.html#2.7
+
+msinttypes
+http://code.google.com/p/msinttypes/
+
